@@ -1,5 +1,15 @@
 # WiseAnalytics
+This project, Superstore Sales Analysis, provides interactive Power BI dashboards for key business insights, including:
 
+Overview & Trends: Sales performance at a glance.
+
+Customer Segmentation: Insights based on purchasing behavior.
+
+Order & Shipping Analysis: Delivery performance and efficiency.
+
+Profit & Discount Insights: Impact of discounts on profitability.
+
+Data cleaning and visualization were done in Power BI to enhance decision-making with actionable insights.
 
 ![Overview Sales Dashboard](https://github.com/Antara-B/WiseAnalytics/blob/180f91732465bca0bddecff808c964db91b2c36f/Screenshots_Sales_Dashboard/Overview_Sales_Dashboard.png)
 
