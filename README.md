@@ -1,4 +1,4 @@
-# WiseAnalytics
+# Superstore Sales Analysis
 This project, Superstore Sales Analysis, provides interactive Power BI dashboards for key business insights, including:
 
 Overview & Trends: Sales performance at a glance.
